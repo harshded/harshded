@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently Pursuing **MBA in Business Analytics**
 
-- 👨‍💻 All of my projects are available at [](https://harshded.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://harshded.github.io/Harshad-Portfolio/](https://harshded.github.io/Harshad-Portfolio/)
 
 - 💬 Ask me about **Python, PHP, SQL Etc.**
 
